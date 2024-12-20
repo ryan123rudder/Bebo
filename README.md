@@ -39,4 +39,4 @@ I had a great time walking around with Bebo at Open Sauce! I got to meet amazing
 
 
 ## Summary
-Overall, this fun project taught me a lot about design, field robotics, and embedded coding. 
+Overall, this fun project taught me a lot about design, field robotics, and embedded coding. If I were to build Bebo again, I would use a smaller display, as the ribbon cable was damaged due to the sharp bend.
